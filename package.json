@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-weblineindia-sendmail",
+  "version": "1.0.0",
+  "description": "A NodeJS SendMail component used for sending mails using Amazon SES and normal mail service.",
+  "homepage": "https://www.weblineindia.com/software-development-resources.html",
+  "repository": "https://github.com/weblineindia/NodeJS-DNS-Validation",
+  "author": "Weblineindia",
+  "main": "index.js",
+  "keywords": [
+    "nodejs-weblineindia-sendmail",
+    "nodejs-sendmail",
+    "nodejs",
+    "node-component",
+    "nodecomponent",
+    "node"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "handlebars": "^4.7.6",
+    "nodemailer": "^6.4.10"
+  }
+}
